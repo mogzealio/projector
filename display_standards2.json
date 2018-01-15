@@ -1,0 +1,17 @@
+{    
+    {
+        "standard": "xga",
+        "width": 1024,
+        "height": 768
+    },
+    {
+    	"standard": "wxga",
+    	"width": 1280,
+    	"height": 800
+    },
+    {
+    	"standard": "fhd",
+    	"width": 1920,
+    	"height": 1080
+    }
+}
